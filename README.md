@@ -23,7 +23,7 @@ The pipeline performs the following transformations:
 5.  **Schema Enforcement:** Converts Unix Timestamp (`register_time`) to Datetime objects and formats Birth Dates to `YYYY-MM-DD`.
 
 ## 📂 File Structure
-* `ETL_Pipeline_Project.ipynb`: The main Jupyter Notebook containing the full code and logic.
+* `python_pandas_etl_cleaning.ipynb`: The main Jupyter Notebook containing the full code and logic.
 * `README.md`: Documentation of the project.
 
 ## ⚠️ Disclaimer
